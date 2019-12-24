@@ -1,0 +1,40 @@
+Python Web Scraping
+
+Install Scrapy using below command :
+pip install Scrapy
+
+Open CMD and type "Scrapy" to see available commands under it.
+
+Start with creating a project:
+-> scrapy startproject quotes_spider
+Navigate to quotes_spider folder:
+-> cd quotes_spider
+Verify the project:
+-> scrapy
+Create two spiders, which will be present under spider folder:
+-> scrapy genspider quotes quotes.toscrape.com
+-> scrapy genspider example example.com
+To see what all spiders are present:
+-> scrapy list
+
+--======================================================================
+-> scrapy shell
+-> fetch("http://quotes.toscrape.com")
+-> response
+-> response.css('h1')
+-> response.css('h1::text')
+-> response.xpath('h1')
+-> response.xpath('//h1')
+-> response.xpath('//h1/a')
+-> response.xpath('//h1/a/text()')
+-> response.xpath('//h1/a/text()').extract() - To get result without selector
+-> response.xpath('//h1/a/text()').extract_first() - To get result without selector and []
+
+--=======================================================================
+-> response.xpath('//*[@class="tag"]') - To fetch selector with class = "tag"
+-> response.xpath('//*[@class="tag-item"]') - To fetch selector with class = "tag-item"
+-> len(response.xpath('//*[@class="tag-item"]')) - To fetch length of selector elements
+
+h1_tag = response.xpath('//h1/a/text()').extract_first()
+		tags = response.xpath('//*[@class="tag-item"]/a/text()').extract()
+		yield {'H1 tag' : h1_tags, 'Tags' : tags}

@@ -1,0 +1,650 @@
+AmountDer,AmountOfSecurityOwnedDer,CIKDer,ConversionExercisePrice,ExpirationDate,OwnershipFormDer,PriceDer,SecuritiesAcquired,SecuritiesDisposed,TitleOfSecurityDer,TitleofDerivativeSecurity,TransactionCodeDer,TransactionDateDer
+"1,160,148","1,161,048",1551139,,,I,0,"1,160,148",,Common Stock,Pre-funded Warrants,A,12/20/2019
+"1,160,148","9,765,333",1551139,,,I,0,"9,765,333",,Common Stock,Pre-funded Warrants,A,12/20/2019
+"3,364",0,1090872,40.8,11/18/2024,D,0,,"3,364",Common Stock,Employee Stock Option (Right to Buy),M,12/20/2019
+"12,000","12,000",1262325,52.13,12/18/2029,I,0,"12,000",,Common Shares,Employee Stock Option (Right to Buy),A,12/18/2019
+"30,000","37,560",1025092,84.89,11/09/2022,D,0.00,,"30,000",Common Stock,Employee Stock Option (right to buy),M,12/20/2019
+"50,000","55,000",1391135,,,D,0,"50,000",,Common Stock,warrants,A,09/23/2019
+"17,829",0,1388658,4.12,09/27/2022,D,0,,"17,829",Common Stock,Employee Stock Option (right to buy),M,12/18/2019
+"6,235",0,1388658,3.65,06/13/2023,D,0,,"6,235",Common Stock,Employee Stock Option (right to buy),M,12/18/2019
+"11,587",0,1388658,4,07/10/2024,D,0,,"11,587",Common Stock,Employee Stock Option (right to buy),M,12/18/2019
+"12,903",0,1388658,5.82,02/10/2025,D,0,,"12,903",Common Stock,Employee Stock Option (right to buy),M,12/18/2019
+"3,719",0,1388658,7.47,07/21/2025,D,0,,"3,719",Common Stock,Employee Stock Option (right to buy),M,12/18/2019
+3,"81,592",1388658,17,10/19/2026,D,0,,3,Common Stock,Employee Stock Option (right to buy),M,12/18/2019
+"30,000","30,000",1422227,6.34,12/18/2029,D,0,"30,000",,Ordinary Shares,Stock Option (right to buy),A,12/18/2019
+"7,339","92,661",1590560,7.53,09/29/2026,D,0,"7,339",,Ordinary Shares,Stock Option (Right to Buy),M,12/18/2019
+"90,000","90,000",1391135,,,D,0,"90,000",,Common Stock,warrants,A,09/23/2019
+"65,000","25,000",1391135,0.01,,D,0,,"65,000",Common Stock,warrants,D,09/23/2019
+"1,000","50,000",1463172,27.34,05/16/2027,D,0,,"1,000",Common Stock,Stock Option (Right to Buy),M,12/19/2019
+"380,325","380,325",1745347,7.86,07/28/2029,D,,"380,325",,Common Stock,Stock Option (right to buy),A,12/18/2019
+"8,625","8,625",1136869,,,D,0,,"8,625",Common Stock,Restricted Stock Units,M,12/19/2019
+0,"18,000",1758042,,12/24/2028,D,,,,Common Stock,Common Stock,,
+306.9111,613.8222,1701764,,,D,0.00,,306.9111,Common Stock,Restricted Stock Units,M,12/18/2019
+"6,734","6,734",1566345,,,D,,,,Common Stock,Restricted Stock Units,,
+"1,754","1,754",1701764,,,D,,,,Common Stock,Restricted Stock Units,,
+"1,086.7113","1,086.7113",1701764,,,D,,,,Common Stock,Restricted Stock Units,,
+"3,243","3,243",1701764,18.48,11/19/2020,D,,,,Common Stock,Nonqualified Stock Option (right to buy),,
+"2,813","2,813",1701764,30.97,11/20/2021,D,,,,Common Stock,Nonqualified Stock Option (right to buy),,
+"3,913","3,913",1701764,21.52,11/12/2022,D,,,,Common Stock,Nonqualified Stock Option (right to buy),,
+"2,634","2,634",1566345,,,D,,,,Common Stock,Restricted Stock Units,,
+"4,080","4,080",1566345,,,D,,,,Common Stock,Restricted Stock Units,,
+"8,100","8,100",1566345,,,D,0,"8,100",,Common Stock,Restricted Stock Units,A,12/19/2019
+"187,500","187,500",1566345,14.74,01/05/2028,D,,,,Common Stock,Employee Stock Option (right to buy),,
+"108,300","108,300",1566345,14.81,05/28/2025,D,,,,Common Stock,Employee Stock Option (right to buy),,
+"79,400","79,400",1566345,19.31,12/15/2026,D,,,,Common Stock,Employee Stock Option (right to buy),,
+"49,200","49,200",1566345,19.06,12/17/2025,D,,,,Common Stock,Employee Stock Option (right to buy),,
+"32,400","32,400",1566345,14.85,12/18/2024,D,,,,Common Stock,Employee Stock Option (right to buy),,
+"2,377","2,377",1701764,44.87,12/18/2027,D,,,,Common Stock,Nonqualified Stock Option (right to buy),,
+"2,845","2,845",1701764,47.45,12/06/2028,D,,,,Common Stock,Nonqualified Stock Option (right to buy),,
+"28,700","28,700",1566345,11.64,12/03/2023,D,,,,Common Stock,Employee Stock Option (right to buy),,
+"433,588","433,588",1796310,8.43,11/19/2029,D,,"433,588",,Common Stock,Stock Option (right to buy),A,12/18/2019
+"3,563","3,563",1787930,12.62,02/24/2025,D,0.00,"3,563",,Common Stock,,A,12/18/2019
+"6,510","6,510",1787930,13.57,11/15/2025,D,0.00,"6,510",,Common Stock,,A,12/18/2019
+"7,345","7,345",1787930,12.65,02/24/2026,D,0.00,"7,345",,Common Stock,,A,12/18/2019
+"16,694","16,694",1787930,16.51,02/24/2027,D,0.00,"16,694",,Common Stock,,A,12/18/2019
+"14,920","14,920",1787930,19.04,02/24/2028,D,0.00,"14,920",,Common Stock,,A,12/18/2019
+"19,772","19,772",1787930,19.49,11/15/2028,D,0.00,"19,772",,Common Stock,,A,12/18/2019
+"23,006","23,006",1787930,21.76,02/24/2029,D,0.00,"23,006",,Common Stock,,A,12/18/2019
+"38,344","38,344",1787930,21.76,02/24/2029,D,0.00,"38,344",,Common Stock,,A,12/18/2019
+"10,000","10,000",1612111,,,D,0,,"10,000",Common Stock,Restricted Stock Units,M,12/20/2019
+"245,481",0,791908,22,12/18/2019,D,0,,"245,481",,Subscription Rights (right to buy),X,12/18/2019
+"190,899",0,791908,22,12/18/2019,D,0,,"190,899",,Subscription Rights (right to buy),X,12/18/2019
+"35,888",0,791908,22,12/18/2019,D,0,,"35,888",,Subscription Rights (right to buy),X,12/18/2019
+"2,313,000","2,313",791908,,,D,,,,,Series X Convertible Preferred Stock,,
+"1,506,000","1,506",791908,,,D,,,,,Series X Convertible Preferred Stock,,
+"412,000",412,791908,,,D,,,,,Series X Convertible Preferred Stock,,
+"772,000",772,791908,,,I,,,,,Series X Convertible Preferred Stock,,
+"655,959",655.959,791908,,,D,,,,,Series Y Convertible Preferred Stock,,
+"596,813",596.813,791908,,,D,,,,,Series Y Convertible Preferred Stock,,
+"15,528","15,528",1326732,38.33,12/17/2029,D,0.00,"15,528",,Common Stock,Stock Option (Right to Buy),A,12/18/2019
+"6,029","6,029",1764054,26.61,12/18/2029,D,0,"6,029",,Class A Common Stock,Non-qualified Stock Option (Right to Buy),A,12/19/2019
+5,"3,971",1653465,,,D,0.00,5,,Class A Common Stock,Restricted Stock Units,A,12/18/2019
+,"2,004,975",1452149,,,I,,"171,099",,Common Stock,Series F Warrants,A,12/11/2019
+,"1,213,125",1452149,,,D,,"119,855",,Common Stock,Series F Warrants,A,12/11/2019
+"2,237.0471",0,1744489,,12/19/2019,D,0,,"2,237.0471",Disney Common Stock,Restricted Stock Unit,M,12/19/2019
+"2,321",0,1744489,,12/19/2019,D,0,,"2,321",Disney Common Stock,Restricted Stock Unit,M,12/19/2019
+"2,753.9755",0,1744489,,12/19/2019,D,0,,"2,753.9755",Disney Common Stock,Restricted Stock Unit,M,12/19/2019
+"3,413",0,1744489,,12/19/2019,D,0,,"3,413",Disney Common Stock,Restricted Stock Unit,M,12/19/2019
+"2,202.9804",0,1744489,,12/19/2019,D,0,,"2,202.9804",Disney Common Stock,Restricted Stock Unit,M,12/19/2019
+"3,515",0,1744489,,12/19/2019,D,0,,"3,515",Disney Common Stock,Restricted Stock Unit,M,12/19/2019
+"3,097.5945",0,1744489,,12/19/2019,D,0,,"3,097.5945",Disney Common Stock,Restricted Stock Unit,M,12/19/2019
+"3,754",0,1744489,,12/19/2019,D,0,,"3,754",Disney Common Stock,Restricted Stock Unit,M,12/19/2019
+"1,391.9331",0,1744489,,12/19/2019,D,0,,"1,391.9331",Disney Common Stock,Restricted Stock Unit,M,12/19/2019
+"1,775",0,1744489,,12/19/2019,D,0,,"1,775",Disney Common Stock,Restricted Stock Unit,M,12/19/2019
+"1,500,000","1,500,000",1508045,1.5,12/23/2019,I,,,,,Option (right to buy),,
+871,"15,184",1636371,0.0,,D,0.0,,871,Common Stock,Restricted Stock Units,M,12/19/2019
+"10,869","10,869",1201256,12.65,12/19/2029,D,0.00,"10,869",,Common Stock,Stock Option (right to buy),A,12/19/2019
+"2,925",0,1604457,,,D,0.00,,"2,925",Common Stock,Restricted Stock Units,M,12/18/2019
+"20,000",0,1227560,3.62,06/05/2022,D,0.00,,"20,000",Common Stock,Stock Option (Right to Buy),M,12/19/2019
+"6,736",0,1044565,0.0,,D,,,"6,736",Common Stock,Restricted Stock Units,D,12/20/2019
+"10,000","30,000",936728,9.24,09/13/2020,D,0.00,,"10,000",Common Stock,Stock Option,M,12/18/2019
+"15,397",0,1008023,0.0,,D,,,"15,397",Common Stock,Restricted Stock Units,D,12/20/2019
+"8,100","8,100",1530997,,,D,0,"8,100",,Common Stock,Restricted Stock Units,A,12/19/2019
+"4,080","4,080",1530997,,,D,,,,Common Stock,Restricted Stock Units,,
+"2,634","2,634",1530997,,,D,,,,Common Stock,Restricted Stock Units,,
+"3,600","3,600",1530997,,,D,,,,Common Stock,Restricted Stock Units,,
+"6,734","6,734",1530997,,,D,,,,Common Stock,Restricted Stock Units,,
+"187,500","187,500",1530997,14.74,01/05/2028,D,,,,Common Stock,Employee Stock Option (right to buy),,
+"108,300","108,300",1530997,14.81,05/28/2025,D,,,,Common Stock,Employee Stock Option (right to buy),,
+"79,400","79,400",1530997,19.31,12/15/2026,D,,,,Common Stock,Employee Stock Option (right to buy),,
+"49,200","49,200",1530997,19.06,12/17/2025,D,,,,Common Stock,Employee Stock Option (right to buy),,
+"36,900","36,900",1530997,8.61,12/15/2021,D,,,,Common Stock,Employee Stock Option (right to buy),,
+"32,400","32,400",1530997,14.85,12/18/2024,D,,,,Common Stock,Employee Stock Option (right to buy),,
+"41,700","41,700",1530997,9.43,12/15/2022,D,,,,Common Stock,Employee Stock Option (right to buy),,
+"28,700","28,700",1530997,11.64,12/03/2023,D,,,,Common Stock,Employee Stock Option (right to buy),,
+"60,000","60,000",1779932,6.34,12/18/2029,D,0,"60,000",,Ordinary Shares,Stock Option (right to buy),A,12/18/2019
+300,598,1393052,,,D,0.00,,300,Class A Common Stock,Restricted Stock Units,M,12/20/2019
+384,766,1393052,,,D,0.00,,384,Class A Common Stock,Restricted Stock Units,M,12/20/2019
+328,657,1393052,,,D,0.00,,328,Class A Common Stock,Restricted Stock Units,M,12/20/2019
+401,803,1393052,,,D,0.00,,401,Class A Common Stock,Restricted Stock Units,M,12/20/2019
+20,43,1393052,,,D,0.00,,20,Class A Common Stock,Restricted Stock Units,M,12/18/2019
+292,584,1393052,,,D,0.00,,292,Class A Common Stock,Restricted Stock Units,M,12/20/2019
+347,693,1393052,,,D,0.00,,347,Class A Common Stock,Restricted Stock Units,M,12/20/2019
+"43,757","43,757",1020859,,,D,0,"43,757",,Common Stock,Restricted Stock Unit,A,12/19/2019
+"3,860","50,180",1627475,,,D,0,,"3,860",Common Stock,Restricted Stock Units (RSU),M,12/18/2019
+"56,461","56,461",1020859,,,D,0,"56,461",,Common Stock,Restricted Stock Unit,A,12/19/2019
+"18,820","18,820",1020859,,,D,0,"18,820",,Common Stock,Restricted Stock Unit,A,12/19/2019
+"319,949","319,949",1020859,,,D,0,"319,949",,Common Stock,Restricted Stock Unit,A,12/19/2019
+"145,859","145,859",1020859,,,D,0,"145,859",,Common Stock,Restricted Stock Unit,A,12/19/2019
+"46,151","46,151",1020859,,,D,0,"46,151",,Common Stock,Restricted Stock Unit,A,12/19/2019
+"20,326","20,326",1020859,,,D,0,"20,326",,Common Stock,Restricted Stock Unit,A,12/19/2019
+"38,582","38,582",1020859,,,D,0,"38,582",,Common Stock,Restricted Stock Unit,A,12/19/2019
+"32,936","32,936",1020859,,,D,0,"32,936",,Common Stock,Restricted Stock Unit,A,12/19/2019
+"47,051","47,051",1020859,,,D,0,"47,051",,Common Stock,Restricted Stock Unit,A,12/19/2019
+"26,737","26,737",1020859,,,D,0,"26,737",,Common Stock,Restricted Stock Unit,A,12/19/2019
+"29,514","29,514",1020859,,,D,0,"29,514",,Common Stock,Restricted Stock Unit,A,12/19/2019
+"25,950","25,950",1020859,,,D,0,"25,950",,Common Stock,Restricted Stock Unit,A,12/19/2019
+"20,326","20,326",1020859,,,D,0,"20,326",,Common Stock,Restricted Stock Unit,A,12/19/2019
+"20,326","20,326",1020859,,,D,0,"20,326",,Common Stock,Restricted Stock Unit,A,12/19/2019
+"20,326","20,326",1020859,,,D,0,"20,326",,Common Stock,Restricted Stock Unit,A,12/19/2019
+"20,326","20,326",1020859,,,D,0,"20,326",,Common Stock,Restricted Stock Unit,A,12/19/2019
+"20,326","20,326",1020859,,,D,0,"20,326",,Common Stock,Restricted Stock Unit,A,12/19/2019
+"1,500,000","6,003,087",1388319,0.0049,11/18/2029,D,0,"1,500,000",,Common Stock,Stock Option (right to buy),A,11/18/2019
+"20,000,000","80,041,284",1388319,0.0057,09/01/2029,D,0,"20,000,000",,Common Stock,Stock Option (right to buy),A,09/01/2019
+"1,500,000","81,541,284",1388319,0.0049,11/18/2029,D,0,"1,500,000",,Common Stock,Stock Option (right to buy),A,11/18/2019
+"1,500,000","6,001,400",1388319,0.0049,11/18/2029,D,0,"1,500,000",,Common Stock,Stock Option (right to buy),A,11/18/2019
+"1,500,000","3,625,000",1388319,0.0049,11/18/2029,D,0,"1,500,000",,Common Stock,Stock Option (right to buy),A,11/18/2019
+"1,500,000","6,002,810",1388319,0.0049,11/18/2029,D,0,"1,500,000",,Common Stock,Stock Option (right to buy),A,11/18/2019
+"45,000","45,000",1774481,3.4,12/18/2029,D,0,"45,000",,Common Stock,Stock Option (Right to Buy),A,12/18/2019
+200,"9,200",1657025,6.54,11/07/2024,D,0,,200,Common Stock,Stock Option (right to buy),M,12/18/2019
+"1,045","12,999",1777926,0.0,,D,0.0,,"1,045",Common Stock,Restricted Stock Units,M,12/19/2019
+"1,250","3,750",1704251,,,D,0,,"1,250",Common Shares,Restricted Share Unit Award,M,12/18/2019
+"6,960","6,960",1702770,108.92,04/02/2027,D,0,,"6,960",Common Stock,Non-qualified Stock Option (Right to Buy),M,12/19/2019
+"4,693","14,082",1702770,99.9,02/19/2028,D,0,,"4,693",Common Stock,Non-qualified Stock Option (Right to Buy),M,12/19/2019
+"103,983","103,983",1633651,,,I,,,,Class A Shares,"Units in Tallgrass Equity, LLC",,
+"25,000","5,771,477",1447669,,,I,0,,"25,000",Class A Common Stock,Class B Common Stock,C,12/18/2019
+"11,875","11,875",1447669,,,D,,,,Class A Common Stock,Class B Common Stock,,
+"725,944","725,944",1447669,,,I,,,,Class A Common Stock,Class B Common Stock,,
+"323,170","323,170",1447669,,,I,,,,Class A Common Stock,Class B Common Stock,,
+"155,555","155,555",92230,32.1,02/23/2026,D,,,,Common Stock,Stock Option (right to buy),,
+"71,611","71,611",92230,37.55,02/25/2024,D,,,,Common Stock,Stock Option (right to buy),,
+"120,714","120,714",92230,38.22,02/24/2025,D,,,,Common Stock,Stock Option (right to buy),,
+"6,900","6,900",737758,76.53,12/19/2029,D,0,"6,900",,Common Stock,Non-Qualified Stock Option,A,12/19/2019
+"18,200","18,200",737758,76.53,12/19/2029,D,0,"18,200",,Common Stock,Non-Qualified Stock Option,A,12/19/2019
+"33,900","33,900",737758,76.53,12/19/2029,D,0,"33,900",,Common Stock,Non-Qualified Stock Option,A,12/19/2019
+"152,900","152,900",737758,76.53,12/19/2029,D,0,"152,900",,Common Stock,Non-Qualified Stock Option,A,12/19/2019
+"5,200","5,200",737758,76.53,12/19/2029,D,0,"5,200",,Common Stock,Non-Qualified Stock Option,A,12/19/2019
+"8,700","8,700",737758,76.53,12/19/2029,D,0,"8,700",,Common Stock,Non-Qualified Stock Option,A,12/19/2019
+"10,400","10,400",737758,76.53,12/19/2029,D,0,"10,400",,Common Stock,Non-Qualified Stock Option,A,12/19/2019
+"22,600","22,600",737758,76.53,12/19/2029,D,0,"22,600",,Common Stock,Non-Qualified Stock Option,A,12/19/2019
+"11,300","11,300",737758,76.53,12/19/2029,D,0,"11,300",,Common Stock,Non-Qualified Stock Option,A,12/19/2019
+"5,700","5,700",737758,76.53,12/19/2029,D,0,"5,700",,Common Stock,Non-Qualified Stock Option,A,12/19/2019
+"20,800","20,800",737758,76.53,12/19/2029,D,0,"20,800",,Common Stock,Non-Qualified Stock Option,A,12/19/2019
+"19,957",0,1273902,20.37,10/01/2024,D,0.0,,"19,957",Common Stock,Non-Qualified Stock Option (right to buy),M,12/19/2019
+"19,527",0,1273902,31.25,11/04/2025,D,0.0,,"19,527",Common Stock,Non-Qualified Stock Option (right to buy),M,12/19/2019
+"693,048","693,048",1381668,,,D,,,,Common Stock,Restricted Stock Units,,
+"35,700","35,700",1381668,,,D,,,,Common Stock,Restricted Stock Units,,
+"20,000",0,1273902,38.99,10/03/2022,D,0.0,,"20,000",Common Stock,Non-Qualified Stock Option (right to buy),M,12/19/2019
+"23,200","23,200",1381668,,,D,,,,Common Stock,Restricted Stock Units,,
+"33,400","33,400",1381668,,,D,,,,Common Stock,Restricted Stock Units,,
+"27,900","27,900",1381668,,,D,0,"27,900",,Common Stock,Restricted Stock Units,A,12/19/2019
+"12,134","12,134",1381668,,,D,,,,Common Stock,Restricted Stock Units,,
+"416,700","416,700",1381668,9.43,12/15/2022,D,,,,Common Stock,Employee Stock Option (right to buy),,
+"383,600","383,600",1381668,14.85,12/18/2024,D,,,,Common Stock,Employee Stock Option (right to buy),,
+"369,000","369,000",1381668,8.61,12/15/2021,D,,,,Common Stock,Employee Stock Option (right to buy),,
+"286,500","286,500",1381668,11.64,12/03/2023,D,,,,Common Stock,Employee Stock Option (right to buy),,
+"196,700","196,700",1381668,19.06,12/17/2025,D,,,,Common Stock,Employee Stock Option (right to buy),,
+"3,000","3,000",1381668,,,D,,,,Common Stock,Restricted Stock Units,,
+"3,600","3,600",1381668,,,D,0,"3,600",,Common Stock,Restricted Stock Units,A,12/19/2019
+"17,000","17,000",1381668,,,D,,,,Common Stock,Restricted Stock Units,,
+"26,000","26,000",1381668,15.08,12/11/2024,D,,,,Common Stock,Employee Stock Option (right to buy),,
+"17,000","17,000",1381668,14.74,01/05/2028,D,,,,Common Stock,Employee Stock Option (right to buy),,
+"6,400","6,400",1381668,,,D,0,"6,400",,Common Stock,Restricted Stock Units,A,12/19/2019
+"2,200","2,200",1381668,,,D,,,,Common Stock,Restricted Stock Units,,
+"5,267","5,267",1381668,,,D,,,,Common Stock,Restricted Stock Units,,
+"4,080","4,080",1381668,,,D,,,,Common Stock,Restricted Stock Units,,
+"156,300","156,300",1381668,14.74,01/05/2028,D,,,,Common Stock,Employee Stock Option (right to buy),,
+"108,300","108,300",1381668,14.81,05/28/2025,D,,,,Common Stock,Employee Stock Option (right to buy),,
+"67,200","67,200",1381668,19.31,12/15/2026,D,,,,Common Stock,Employee Stock Option (right to buy),,
+"49,200","49,200",1381668,19.06,12/17/2025,D,,,,Common Stock,Employee Stock Option (right to buy),,
+"32,400","32,400",1381668,14.85,12/18/2024,D,,,,Common Stock,Employee Stock Option (right to buy),,
+"5,348",0,1094285,0.0,12/20/2019,D,0,"5,348",,Common Stock,Restricted Stock Units,M,12/20/2019
+"168,000","168,000",1750019,16.1,12/18/2029,D,0.00,"168,000",,Common Stock,Stock Option (Right to Buy),A,12/19/2019
+"72,100","72,100",1750019,16.1,12/18/2029,D,0.00,,"72,100",Common Stock,Stock Option (Right to Buy),A,12/19/2019
+"5,000","5,000",1750019,16.1,12/18/2029,D,0.00,,"5,000",Common Stock,Stock Option (Right to Buy),A,12/19/2019
+"50,000","50,000",1750019,16.1,12/18/2029,D,0.00,"50,000",,Common Stock,Stock Option (Right to Buy),A,12/19/2019
+"5,000","5,000",1750019,16.1,12/18/2029,D,0.00,"5,000",,Common Stock,Stock Option (Right to Buy),A,12/19/2019
+"50,000","50,000",1750019,16.1,12/18/2029,D,0.00,,"50,000",Common Stock,Stock Option (Right to Buy),A,12/19/2019
+"2,437","28,353",1777936,0.0,,D,0.0,,"2,437",Common Stock,Restricted Stock Units,M,12/19/2019
+"35,000","35,000",1556263,6.22,12/18/2029,D,0.00,"35,000",,Common Stock,Stock Option (right to buy),A,12/19/2019
+"6,029","6,029",1606088,26.61,12/18/2029,D,0,"6,029",,Class A Common Stock,Non-qualified Stock Option (Right to Buy),A,12/19/2019
+"154,500","154,500",351834,,,D,0.00,"154,500",,Common Shares,Restricted Stock Units,A,12/19/2019
+"5,098","29,673",1514705,,,D,0,"5,098",,Common Stock,Deferred Share Units,A,12/18/2019
+292.21,"29,965.21",1514705,,,D,0,292.21,,Common Stock,Deferred Share Units,J,12/18/2019
+"5,098","84,932.49",1514705,,,D,0,"5,098",,Common Stock,Deferred Share Units,A,12/18/2019
+949.28,"85,881.77",1514705,,,D,0,949.28,,Common Stock,Deferred Share Units,J,12/18/2019
+"1,496","1,496",1514705,,,D,0,"1,496",,Common Stock,Deferred Share Units,A,12/18/2019
+"5,098","86,794.49",1514705,,,D,0,"5,098",,Common Stock,Deferred Share Units,A,12/18/2019
+971.42,"87,765.91",1514705,,,D,0,971.42,,Common Stock,Deferred Share Units,J,12/18/2019
+922.97,"83,642.46",1514705,,,D,0,922.97,,Common Stock,Deferred Share Units,J,12/18/2019
+"5,098","82,719.49",1514705,,,D,0,"5,098",,Common Stock,Deferred Share Units,A,12/18/2019
+"16,385","18,219",1487805,13.24,,D,0,,"16,385",Common Stock,Performance Stock Units,M,12/20/2019
+"18,219",0,1487805,13.24,,D,0,,"18,219",Common Stock,Performance Stock Units,F,12/20/2019
+"12,728","14,152",1487805,13.02,,D,0,,"12,729",Common Stock,Deferred Stock Units,M,12/20/2019
+"14,152",0,1487805,13.02,,D,0,,"14,152",Common Stock,Deferred Stock Units,F,12/20/2019
+"3,375","10,125",1785732,,,D,0,,"3,375",Common Shares,Restricted Share Unit Award,M,12/18/2019
+"15,000","15,000",1785732,52.13,12/18/2029,I,0,"15,000",,Common Shares,Employee Stock Option (Right to Buy),A,12/18/2019
+"6,029","6,029",1576942,26.61,12/18/2029,D,0,"6,029",,Class A Common Stock,Non-qualified Stock Option (Right to Buy),A,12/19/2019
+"36,298","11,062,231",1576942,,,I,0,,"36,298",Class A Common Stock,Class B Common Stock,C,12/19/2019
+"10,241","11,387",1681908,13.24,,D,0,,"10,241",Common Stock,Performance Stock Units,M,12/20/2019
+"11,387",0,1681908,13.24,,D,0,,"11,387",Common Stock,Performance Stock Units,F,12/20/2019
+"2,537",0,1746277,,,D,0.00,,"2,537",Class B common stock,Restricted stock units (Class B comnon stock),M,12/18/2019
+"2,537","2,537",1746277,,,D,0.00,"2,537",,Class A common stock,Class B common stock,A,12/18/2019
+"1,143","1,143",1746277,,,D,0.00,,"1,394",Class A common stock,Class B common stock,C,12/18/2019
+"71,000","142,000",1746277,,,D,0.00,,"71,000",Class B common stock,Restricted stock units (Class B common stock),M,12/18/2019
+"71,000","71,000",1746277,,,D,0.00,"71,000",,Class A common stock,Class B common stock,A,12/18/2019
+"31,989","31,989",1746277,,,D,0.00,,"39,011",Class A common stock,Class B common stock,C,12/18/2019
+"620,989","1,862,964",1746277,,,D,0.00,,"620,989",Class B common stock,Restricted stock units (Class B common stock),M,12/18/2019
+"620,989","620,989",1746277,,,D,0.00,"620,989",,Class A common stock,Class B common stock,A,12/18/2019
+"279,793","279,793",1746277,,,D,0.00,,"341,196",Class A common stock,Class B common stock,C,12/18/2019
+"166,667","166,667",1746277,,,D,0.00,,"166,667",Class B common stock,Restricted stock units (Class B common stock),M,12/18/2019
+"166,667","166,667",1746277,,,D,0.00,"166,667",,Class A common stock,Class B common stock,A,12/18/2019
+"75,093","75,093",1746277,,,D,0.00,,"91,574",Class A comomn stock,Class B common stock,C,12/18/2019
+"450,000","450,000",1677343,1.2,12/18/2029,D,0.00,"450,000",,Common Units,Employee Unit Option (right to buy),A,12/18/2019
+"7,167",0,1309776,0.0,,D,,,"7,167",Common Stock,Restricted Stock Units,D,12/20/2019
+"27,118",0,1309776,0.0,,D,,,"27,118",Common Stock,Restricted Stock Units,D,12/20/2019
+"56,004",0,1309776,0.0,,D,,,"56,004",Common Stock,Restricted Stock Units,D,12/20/2019
+"2,536",0,1309776,0.0,,D,,,"2,536",Common Stock,Performance Share Units,D,12/20/2019
+"4,819",0,1309776,0.0,,D,,,"4,819",Common Stock,Performance Share Units,D,12/20/2019
+"6,664",0,1309776,0.0,,D,,,"6,664",Common Stock,Performance Share Units,D,12/20/2019
+"22,544",0,1309776,27.295,03/17/2021,D,,,"22,544",Common Stock,Stock Appreciation Rights,D,12/20/2019
+"18,562",0,1309776,26.94,03/23/2022,D,,,"18,562",Common Stock,Stock Appreciation Rights,D,12/20/2019
+"29,088",0,1309776,14.67,03/17/2025,D,,,"29,088",Common Stock,Stock Appreciation Rights,D,12/20/2019
+"39,417",0,1309776,10.98,03/17/2026,D,,,"39,417",Common Stock,Stock Appreciation Rights,D,12/20/2019
+912,0,1650729,5.5,05/19/2024,D,0.00,,912,Common Stock,Stock Options (right to buy),M,12/18/2019
+"9,088","20,000",1650729,5.5,09/30/2024,D,0.00,,"9,088",Common Stock,Stock Options (right to buy),M,12/18/2019
+"7,628","78,529",1397702,4.73,11/30/2027,D,0,,"7,628",Common Stock,Option (right to buy),M,12/18/2019
+"8,276",0,1527033,0.0,,D,,,"8,276",Common Stock,Restricted Stock Units,D,12/20/2019
+"1,235","1,235",1742271,,,D,,,,Common Stock,2018 Director Restricted Stock Units,,
+"1,515",0,1742271,,,D,,,,Common Stock,2019 Director Restriced Stock Units,,
+"9,400","9,400",1727196,11.48,12/17/2029,D,0,"9,400",,Common Stock,Stock Option (Right to Buy),A,12/17/2019
+"23,000","140,873",1397362,0.5125,05/28/2020,D,0,,"23,000",Common Stock,Stock Option (right to buy),M,12/19/2019
+"25,000","25,000",1796536,12.69,12/19/2029,D,0.00,"25,000",,Common Stock,Stock Option (right to buy),A,12/19/2019
+"1,479,043","1,479,043",1796309,7.86,06/19/2029,D,,"1,479,043",,Common Stock,Stock Option (right to buy),A,12/18/2019
+"3,891",0,1710351,,,D,0,,"3,891",Class A Common Stock,Restricted Stock Units,M,12/18/2019
+"5,308","10,617",1010612,29.36,03/15/2027,D,0,,"5,308",Common Stock,Stock Appreciation Rights,M,12/19/2019
+"5,308","5,309",1010612,29.36,03/15/2027,D,0,,"5,308",Common Stock,Stock Appreciation Rights,M,12/19/2019
+"4,044","8,088",1010612,19.77,,D,0,,"4,044",Common Stock,Stock Appreciation Rights,M,12/19/2019
+"4,044","4,044",1010612,19.77,,D,0,,"4,044",Common Stock,Stock Appreciation Rights,M,12/19/2019
+"4,044",0,1010612,19.77,,D,0,,"4,044",Common Stock,Stock Appreciation Rights,M,12/19/2019
+"4,964","9,928",1010612,28.15,05/31/2028,D,0,,"4,964",Common Stock,Stock Appreciation Rights,M,12/19/2019
+"4,789",0,1010612,15.25,,D,0,,"4,789",Common Stock,Stock Appreciation Rights,M,12/19/2019
+"3,126","6,254",1010612,18.67,,D,0,,"3,126",Common Stock,Stock Appreciation Rights,M,12/19/2019
+"3,127","3,127",1010612,18.67,,D,0,,"3,127",Common Stock,Stock Appreciation Rights,M,12/19/2019
+"3,127",0,1010612,18.67,,D,0,,"3,127",Common Stock,Stock Appreciation Rights,M,12/19/2019
+"4,179","8,359",1010612,30.32,04/04/2026,D,0,,"4,179",Common Stock,Stock Appreciation Rights,M,12/19/2019
+"4,179","4,180",1010612,30.32,04/04/2026,D,0,,"4,179",Common Stock,Stock Appreciation Rights,M,12/19/2019
+"4,180",0,1010612,30.32,04/04/2026,D,0,,"4,180",Common Stock,Stock Appreciation Rights,M,12/19/2019
+"4,243","8,486",1010612,28.15,05/31/2028,D,0,,"4,243",Common Stock,Stock Appreciation Rights,M,12/19/2019
+"4,537","9,075",1010612,29.36,03/15/2027,D,0,,"4,537",Common Stock,Stock Appreciation Rights,M,12/19/2019
+"4,537","4,538",1010612,29.36,03/15/2027,D,0,,"4,537",Common Stock,Stock Appreciation Rights,M,12/19/2019
+"3,572","7,145",1010612,30.32,04/04/2026,D,0,,"3,572",Common Stock,Stock Appreciation Rights,M,12/19/2019
+"3,572","3,573",1010612,30.32,04/04/2026,D,0,,"3,572",Common Stock,Stock Appreciation Rights,M,12/19/2019
+"3,573",0,1010612,30.32,04/04/2026,D,0,,"3,573",Common Stock,Stock Appreciation Rights,M,12/19/2019
+"3,198","6,396",1010612,25.06,,D,0,,"3,198",Common Stock,Stock Appreciation Rights,M,12/19/2019
+"3,198","3,198",1010612,25.06,,D,0,,"3,198",Common Stock,Stock Appreciation Rights,M,12/19/2019
+"3,198",0,1010612,25.06,,D,0,,"3,198",Common Stock,Stock Appreciation Rights,M,12/19/2019
+"7,585.42","7,585.42",811808,0,,D,,,,Common Stock,Phantom Stock,,
+"450,000","450,000",1286131,1.2,12/18/2029,D,0.00,"450,000",,Common Units,Employee Unit Option (right to buy),A,12/18/2019
+"2,500,000","2,500,000",1286131,1.2,12/18/2029,D,0.00,"2,500,000",,Common Units,Employee Unit Option (right to buy),A,12/18/2019
+"450,000","450,000",1286131,1.2,12/18/2029,D,0.00,"450,000",,Common Units,Employee Unit Option (right to buy),A,12/18/2019
+"1,827","1,827",1254073,0.00,11/16/2021,D,,,,Common Stock,Restricted Stock Units,,
+"25,000","21,574",88205,12.36,10/13/2025,D,0,,"25,000",Common Stock,Employee stock option to purchase common stock,M,12/20/2019
+"22,430","22,430",88205,12.85,03/02/2026,D,,,,Common Stock,Employee stock option to purchase common stock,,
+"11,367","11,367",88205,27.4,03/01/2027,D,,,,Common Stock,Employee stock option to purchase common stock,,
+"10,029","10,029",88205,32.69,02/22/2028,D,,,,Common Stock,Employee stock option to purchase common stock,,
+"9,683","9,683",88205,36.51,02/21/2029,D,,,,Common Stock,Employee stock option to purchase common stock,,
+"597,345",0,92122,44.42,02/13/2022,D,0.00,,"597,345",Southern Company Common Stock,Option Right to Buy,M,12/19/2019
+"714,297",0,92122,44.06,02/11/2023,D,0.00,,"714,297",Southern Company Common Stock,Option Right to Buy,M,12/19/2019
+"1,025,454",0,92122,41.28,02/10/2024,D,0.00,,"1,025,454",Southern Company Common Stock,Option Right to Buy,M,12/19/2019
+"21,955","87,955",1163668,19.98,12/18/2029,D,0,"21,955",,Common Stock,Stock Options (right to buy),A,12/18/2019
+"4,456","19,456",1163668,19.98,12/18/2029,D,0,"4,456",,Common Stock,Stock Options (right to buy),A,12/18/2019
+"21,107","21,107",318673,1.09,04/13/2022,D,1.09,"21,107",,Class A Common Stock,Employee Stock Option (right to buy),A,04/13/2012
+"3,764","3,764",1428875,,,D,,"3,764",,Common Stock,Restricted Stock Units,M,12/19/2019
+"13,401","13,401",318673,3.56,12/06/2023,D,3.56,"13,401",,Class A Common Stock,Employee Stock Option (right to buy),A,12/06/2013
+"12,763","12,763",318673,3.34,07/02/2024,D,3.34,"12,763",,Class A Common Stock,Employee Stock Option (right to buy),A,07/02/2014
+"25,527","25,527",318673,3.89,12/05/2024,D,3.89,"25,527",,Class A Common Stock,Employee Stock Option (right to buy),A,12/05/2014
+"24,311","24,311",318673,5.47,12/04/2025,D,5.47,"24,311",,Class A Common Stock,Employee Stock Option (right to buy),A,12/04/2015
+"23,153","23,153",318673,6.03,12/02/2026,D,6.03,"23,153",,Class A Common Stock,Employee Stock Option (right to buy),A,12/02/2016
+"22,050","22,050",318673,4.56,12/01/2027,D,4.56,"22,050",,Class C Common Stock,Employee Stock Option (right to buy),A,12/01/2017
+"26,250","26,250",318673,5.24,11/30/2028,D,5.24,"26,250",,Class C Common Stock,Employee Stock Option (right to buy),A,11/30/2018
+"40,000","40,000",318673,5.46,12/06/2029,D,5.46,"40,000",,Class C Common Stock,Employee Stock Option (right to buy),A,12/06/2019
+"12,763",0,318673,3.89,12/05/2024,D,3.89,,"12,763",Class A Common Stock,Employee Stock Option (right to buy),M,12/05/2014
+"8,509","8,509",318673,5.47,12/04/2025,D,5.47,"8,509",,Class A Common Stock,Employee Stock Option (right to buy),A,12/04/2015
+"5,789","5,789",318673,6.03,12/02/2026,D,6.03,"5,789",,Class A Common Stock,Employee Stock Option (right to buy),A,12/02/2016
+"5,513","5,513",318673,4.56,12/01/2027,D,4.56,"5,513",,Class A Common Stock,Employee Stock Option (right to buy),A,12/01/2017
+"5,250","5,250",318673,5.24,11/30/2028,D,5.24,"5,250",,Class A Common Stock,Employee Stock Option (right to buy),A,11/30/2018
+"90,000",0,1431322,3.42,01/21/2020,D,0,,"90,000",Common Stock,Stock Options (Right to Buy),M,12/18/2019
+"96,922",0,1431322,7.95,02/01/2022,D,0,,"96,922",Common Stock,Stock Options (Right to Buy),M,12/18/2019
+"64,124",0,1431322,2.51,01/14/2023,D,0,,"64,124",Common Stock,Stock Options (Right to Buy),M,12/18/2019
+"100,000",0,1431322,1.79,01/19/2026,D,0,,"100,000",Common Stock,Stock Options (Right to Buy),M,12/18/2019
+"15,000",0,1773184,2.52,04/09/2029,D,0,,"15,000",Common Stock,Stock Options (Right to Buy),M,12/18/2019
+"25,000","25,000",1779906,6.34,12/18/2029,D,0,"25,000",,Ordinary Shares,Stock Option (right to buy),A,12/18/2019
+"1,250",0,1654450,,,D,0.00,,"1,250",Common Stock,Restricted Stock Units,M,12/18/2019
+"75,000",0,1545202,1.43,12/31/2019,I,0.00,,"75,000",Class B Common Shares,Convertible Loan Agreement,C,12/18/2019
+"251,489",0,1545202,1.43,12/31/2019,I,0.00,,"251,489",Class A Common Shares,Convertible Loan Agreement,C,12/18/2019
+"10,000","10,000",1635088,,,D,10,"10,000",,,,J,12/18/2019
+"4,533","4,533",1788632,12.62,02/24/2025,D,0.00,"4,533",,Common Stock,Employee Stock Option (Right to Buy),A,12/18/2019
+"10,986","10,986",1788632,12.65,02/24/2026,D,0.00,"10,986",,Common Stock,Employee Stock Option (Right to Buy),A,12/18/2019
+"25,041","25,041",1788632,16.51,02/24/2027,D,0.00,"25,041",,Common Stock,Employee Stock Option (Right to Buy),A,12/18/2019
+"5,634","5,634",1788632,15.97,05/15/2027,D,0.00,"5,634",,Common Stock,Employee Stock Option (Right to Buy),A,12/18/2019
+"20,189","20,189",1788632,19.04,02/24/2028,D,0.00,"20,189",,Common Stock,Employee Stock Option (Right to Buy),A,12/18/2019
+"23,006","23,006",1788632,21.76,02/24/2029,D,0.00,"23,006",,Common Stock,Employee Stock Option (Right to Buy),A,12/18/2019
+"38,344","38,344",1788632,21.76,02/24/2029,D,0.00,"38,344",,Common Stock,Employee Stock Option (Right to Buy),A,12/18/2019
+"200,000","200,000",1704636,4.42,12/17/2029,D,0.00,"200,000",,Common Stock,Stock Option (Right to Buy),A,12/18/2019
+"30,000","30,000",1779944,6.34,12/18/2029,D,0,"30,000",,Ordinary Shares,Stock Option (right to buy),A,12/18/2019
+5,"3,971",1653464,,,D,0.00,5,,Class A Common Stock,Restricted Stock Units,A,12/18/2019
+"1,854","1,854",1240527,,,D,0.00,"1,854",,Common Stock,Restricted Stock Units,A,12/19/2019
+23,"19,846",1194416,,,D,0.00,23,,Class A Common Stock,Restricted Stock Units,A,12/18/2019
+"2,500","2,500",882835,73.56,01/20/2021,D,73.56,,"2,500",Common Stock,Employee Stock Option (right to buy),M,12/19/2019
+"49,552","49,552",1238325,3.94,12/18/2029,D,0.00,"49,552",,Common Stock,Employee Stock Option (right to buy),A,12/19/2019
+"27,650","30,745",930236,13.24,,D,0,,"27,650",Common Stock,Performance Stock Units,M,12/20/2019
+"30,745",0,930236,13.24,,D,0,,"30,745",Common Stock,Performance Stock Units,F,12/20/2019
+"20,002","22,240",930236,13.02,,D,0,,"20,002",Common Stock,Deferred Stock Units,M,12/20/2019
+"22,240",0,930236,13.02,,D,0,,"22,240",Common Stock,Deferred Stock Units,F,12/20/2019
+"10,586",0,938683,0.0,,D,,,"10,586",Common Stock,Restricted Stock Units,D,12/20/2019
+"225,000",0,1436861,3.42,01/21/2020,D,0,,"225,000",Common Stock,Stock Options (Right to Buy),M,12/18/2019
+"302,422",0,1436861,7.95,02/01/2022,D,0,,"302,422",Common Stock,Stock Options (Right to Buy),M,12/18/2019
+"285,075",0,1436861,6.7,01/24/2021,D,0,,"285,075",Common Stock,Stock Options (Right to Buy),M,12/18/2019
+"360,000",0,1436861,1.79,01/19/2026,D,0,,"360,000",Common Stock,Stock Options (Right to Buy),M,12/18/2019
+"6,600","24,513",1503274,2.28,02/03/2022,D,0.00,,"6,600",Common Stock,Stock Option (Right to buy),M,12/18/2019
+"14,276",0,1481326,0.0,,D,,,"14,276",Common Stock,Restricted Stock Units,D,12/20/2019
+"104,559",0,1481326,0.0,,D,,,"104,559",Common Stock,Restricted Stock Units,D,12/20/2019
+"64,928",0,1481326,0.0,,D,,,"64,928",Common Stock,Restricted Stock Units,D,12/20/2019
+"134,028",0,1481326,0.0,,D,,,"134,028",Common Stock,Restricted Stock Units,D,12/20/2019
+"5,051",0,1481326,0.0,,D,,,"5,051",Common Stock,Performance Share Units,D,12/20/2019
+"11,539",0,1481326,0.0,,D,,,"11,539",Common Stock,Performance Share Units,D,12/20/2019
+"15,947",0,1481326,0.0,,D,,,"15,947",Common Stock,Performance Share Units,D,12/20/2019
+"29,838",0,1481326,27.295,03/17/2021,D,,,"29,838",Common Stock,Stock Appreciation Rights,D,12/20/2019
+"36,974",0,1481326,26.94,03/23/2022,D,,,"36,974",Common Stock,Stock Appreciation Rights,D,12/20/2019
+"69,648",0,1481326,14.67,03/17/2025,D,,,"69,648",Common Stock,Stock Appreciation Rights,D,12/20/2019
+"94,335",0,1481326,10.98,03/17/2026,D,,,"94,335",Common Stock,Stock Appreciation Rights,D,12/20/2019
+"8,646","8,646",1534753,318.2102,04/04/2022,D,,,,Class A Common Stock,Option to Purchase Class A Common Stock (right to buy),,
+"1,459","1,459",1534753,253.6664,08/04/2020,D,,,,Class A Common Stock,Option to Purchase Class A Common Stock (right to buy),,
+"8,646","8,646",1534753,316.9399,04/04/2022,D,,,,Class C Capital Stock,Option to Purchase Class C Capital Stock (right to buy),,
+"1,459","1,459",1534753,252.6537,08/04/2020,D,,,,Class C Capital Stock,Option to Purchase Class C Capital Stock (right to buy),,
+"4,843","4,843",1338943,8.34,04/30/2019,D,,,,Common Stock,Stock Options (Right to Buy),,
+"100,000","100,000",1771761,4.42,12/17/2029,D,0.00,"100,000",,Common Stock,Stock Option (Right to Buy),A,12/18/2019
+"3,800","3,800",1535326,27.795,12/30/2020,D,,,,Common Stock,Option-right to buy,,
+"3,800","3,800",1535326,27.795,12/30/2020,D,,,,Common Stock,Option-right to buy,,
+"3,800","3,800",1535326,27.795,12/30/2020,D,,,,Common Stock,Option-right to buy,,
+"3,800","3,800",1535326,27.795,12/30/2020,D,,,,Common Stock,Option-right to buy,,
+"3,800","3,800",1535326,27.795,12/30/2020,D,,,,Common Stock,Option-right to buy,,
+"3,800","3,800",1535326,23.605,12/30/2021,D,,,,Common Stock,Option-right to buy,,
+"3,800","3,800",1535326,23.605,12/30/2021,D,,,,Common Stock,Option-right to buy,,
+"3,800","3,800",1535326,23.605,12/30/2021,D,,,,Common Stock,Option-right to buy,,
+"3,800","3,800",1535326,23.605,12/30/2021,D,,,,Common Stock,Option-right to buy,,
+"3,800","3,800",1535326,23.605,12/30/2021,D,,,,Common Stock,Option-right to buy,,
+"2,115",0,1535326,35.75,12/30/2019,D,0,,"2,115",Common Stock,Option-right to buy,M,12/19/2019
+"3,800",0,1535326,35.75,12/30/2019,D,0,,"3,800",Common Stock,Option-right to buy,M,12/19/2019
+"3,800","3,800",1535326,32.825,12/29/2022,D,,,,Common Stock,Option-right to buy,,
+"3,800","3,800",1535326,32.825,12/29/2022,D,,,,Common Stock,Option-right to buy,,
+"3,800","3,800",1535326,32.825,12/29/2022,D,,,,Common Stock,Option-right to buy,,
+"3,800","3,800",1535326,32.825,12/29/2022,D,,,,Common Stock,Option-right to buy,,
+"3,800","3,800",1535326,32.825,12/29/2022,D,,,,Common Stock,Option-right to buy,,
+"5,000","5,000",1535326,43.8,12/28/2023,I,,,,Common Stock,Option-right to buy,,
+"5,000","5,000",1535326,43.8,12/28/2023,I,,,,Common Stock,Option-right to buy,,
+"5,000","5,000",1535326,43.8,12/28/2023,I,,,,Common Stock,Option-right to buy,,
+"5,000","5,000",1535326,43.8,12/28/2023,I,,,,Common Stock,Option-right to buy,,
+"15,882","15,882",1745916,21.03,06/12/2023,D,,,,Common Stock,Nonstatutory Stock Option (Right to Buy),,
+"28,216","28,216",1745916,17.26,02/25/2024,D,,,,Common Stock,Nonstatutory Stock Option (Right to Buy),,
+"23,829","23,829",1745916,17.52,03/02/2025,D,,,,Common Stock,Nonstatutory Stock Option (Right to Buy),,
+"5,000","5,000",1535326,43.8,12/28/2023,I,,,,Common Stock,Option-right to buy,,
+"5,000","5,000",1535326,65.25,12/30/2024,I,,,,Common Stock,Option-right to buy,,
+"5,000","5,000",1535326,65.25,12/30/2024,I,,,,Common Stock,Option-right to buy,,
+"27,771","27,771",1745916,11.28,03/06/2026,D,,,,Common Stock,Nonstatutory Stock Option (Right to Buy),,
+"5,000","5,000",1535326,65.25,12/30/2024,I,,,,Common Stock,Option-right to buy,,
+"22,506","22,506",1745916,18.05,03/05/2027,D,,,,Common Stock,Nonstatutory Stock Option (Right to Buy),,
+"17,204","17,204",1745916,24.4,03/08/2028,D,,,,Common Stock,Nonstatutory Stock Option (Right to Buy),,
+"5,000","5,000",1535326,65.25,12/30/2024,I,,,,Common Stock,Option-right to buy,,
+"5,000","5,000",1535326,65.25,12/30/2024,I,,,,Common Stock,Option-right to buy,,
+"77,181","77,181",1643071,8.43,11/19/2029,D,,"77,181",,Common Stock,Stock Option (right to buy),A,12/18/2019
+"523,125","523,125",56868,1,,D,,,,common stock,purchase (right to buy) option,,
+"174,375","174,375",56868,1.25,,D,,,,common stock,purchase (right to buy) option,,
+117,"48,325",1195847,0.00,,D,0.00,117,,Common Stock,Restricted Stock Unit,A,12/20/2019
+38,"32,703",1626115,,,D,0.00,38,,Class A Common Stock,Restricted Stock Units,A,12/18/2019
+18,"16,369",1626115,,,D,0.00,18,,Class A Common Stock,Restricted Stock Units,A,12/18/2019
+77,"67,973",1626115,,,D,0.00,77,,Class A Common Stock,Restricted Stock Units,A,12/18/2019
+32,"28,301",1626115,,,D,0.00,32,,Class A Common Stock,Restricted Stock Units,A,12/18/2019
+10,"7,924",1626115,,,D,0.00,10,,Class A Common Stock,Restricted Stock Units,A,12/18/2019
+"10,586",0,1020949,0.0,,D,,,"10,586",Common Stock,Restricted Stock Units,D,12/20/2019
+"600,000","600,000",1636651,4.42,12/17/2029,D,0.00,"600,000",,Common Stock,Stock Option (Right to Buy),A,12/18/2019
+"100,000","100,000",1636651,4.42,12/17/2029,D,0.00,"100,000",,Common Stock,Stock Option (Right to Buy),A,12/18/2019
+"125,000","125,000",1636651,4.42,12/17/2029,D,0.00,"125,000",,Common Stock,Stock Option (Right to Buy),A,12/18/2019
+"3,351,542","18,936,254",1326533,1,12/31/2021,D,,,"3,351,542",Common Stock,Warrant,M,12/18/2019
+"3,351,542","3,351,542",1326533,1.75,01/01/2023,D,,"3,351,542",,Common Stock,Warrant,M,12/18/2019
+"20,000","30,000",1722010,2.85,08/19/2020,D,0.00,,"20,000",Common Stock,Stock Option (right to buy),M,12/19/2019
+"38,320",0,1226425,5.23,01/01/2020,D,0,"38,320",,Common Stock,Stock Option (Right to Buy),M,12/18/2019
+"10,869","10,869",1752965,12.65,12/19/2029,D,0.00,"10,869",,Common Stock,Stock Option (right to buy),A,12/19/2019
+"3,950","1,975",1394155,507.79,09/24/2024,D,0.0000,,"3,950",Common Stock,Non-Qualified Stock Option (right to buy),M,12/19/2019
+"2,350",0.0000,1394155,371.47,09/28/2022,D,0.0000,,"2,350",Common Stock,Non-Qualified Stock Option (right to buy),M,12/19/2019
+"4,350",0.0000,1394155,425.11,10/02/2023,D,0.0000,,"4,350",Common Stock,Non-Qualified Stock Option (right to buy),M,12/19/2019
+"29,527","29,527",1755882,27.05,07/15/2029,D,0.00,"29,527",,Common Stock,,A,12/18/2019
+"8,000","42,000",1045810,14.48,01/09/2022,D,0,,"8,000",Common Stock,Stock Option (Right to Buy),M,12/18/2019
+300,"1,000",1013272,32.34,12/11/2028,D,0.00,,300,Common Stock,Option-Right to Buy,M,12/20/2019
+"3,940",0,1690680,,,D,,,"4,222",,Newmark Holdings Exchangeable Limited Partnership Units,M,12/19/2019
+"1,854","1,854",1223930,,,D,0.00,"1,854",,Common Stock,Restricted Stock Units,A,12/19/2019
+"75,000",0,1790636,16,06/29/2021,D,0,"75,000",,Common Stock,Warrants to Purchase Common Stock,J,12/18/2019
+"43,000","43,000",1774519,3.4,12/18/2029,D,0,"43,000",,Common Stock,Stock Option (Right to Buy),A,12/18/2019
+"12,121",0,1588389,1.485,12/05/2022,I,0.00,,"12,121",Common Stock,Stock Option (right to buy),M,12/18/2019
+907,0,1575205,22.4,07/31/2022,D,22.4,,907,Common Stock,Non-Qualified Stock Option (Right to Buy),M,12/20/2019
+"7,000","13,000",1575205,19.72,04/25/2023,D,19.72,,"7,000",Common Stock,Non-Qualified Stock Option (Right to Buy),M,12/20/2019
+"2,106.0091","4,212.0182",1379160,,,D,0.00,"2,106.0091",,Common Stock,Restricted Stock Units,M,12/18/2019
+"9,549.0302","9,549.0302",1379160,,,D,,,,Common Stock,Restricted Stock Units,,
+"2,633.2633","2,633.2633",1379160,,,D,,,,Common Stock,Restricted Stock Units,,
+"4,002.5867","4,002.5867",1379160,,,D,,,,Common Stock,Restricted Stock Units,,
+"11,109","11,109",1379160,,,D,,,,Common Stock,Restricted Stock Units,,
+"5,795.1145","5,795.1145",1379160,,,D,,,,Common Stock,Restricted Stock Units,,
+"25,946","25,946",1379160,18.48,11/19/2020,D,,,,Common Stock,Nonqualified Stock Option (right to buy),,
+"15,000","15,000",1379160,30.97,11/20/2021,D,,,,Common Stock,Nonqualified Stock Option (right to buy),,
+"26,086","26,086",1379160,21.52,11/12/2022,D,,,,Common Stock,Nonqualified Stock Option (right to buy),,
+"20,000","20,000",1379160,30.96,11/14/2023,D,,,,Common Stock,Nonqualified Stock Option (right to buy),,
+"16,304","16,304",1379160,44.87,12/18/2027,D,,,,Common Stock,Nonqualified Stock Option (right to buy),,
+"15,173","15,173",1379160,47.45,12/06/2028,D,,,,Common Stock,Nonqualified Stock Option (right to buy),,
+805,"236,239",1690585,9.49,04/25/2028,D,0.00,,805,Common Stock,Stock Option (Right to Buy),M,12/20/2019
+114,"236,125",1690585,9.49,04/25/2028,D,0.00,,114,Common Stock,Stock Option (Right to Buy),M,12/20/2019
+"10,869","10,869",1021029,12.65,12/19/2029,D,0.00,"10,869",,Common Stock,Stock Option (right to buy),A,12/19/2019
+"10,496",0,1197480,0.0,,D,,,"10,496",Common Stock,Restricted Stock Units,D,12/20/2019
+"84,420",0,1197480,0.0,,D,,,"84,420",Common Stock,Restricted Stock Units,D,12/20/2019
+"39,730",0,1197480,0.0,,D,,,"39,730",Common Stock,Restricted Stock Units,D,12/20/2019
+"3,714",0,1197480,0.0,,D,,,"3,714",Common Stock,Performance Share Units,D,12/20/2019
+"7,061",0,1197480,0.0,,D,,,"7,061",Common Stock,Performance Share Units,D,12/20/2019
+"10,045",0,1197480,0.0,,D,,,"10,045",Common Stock,Performance Share Units,D,12/20/2019
+"33,016",0,1197480,27.295,03/17/2021,D,,,"33,016",Common Stock,Stock Appreciation Rights,D,12/20/2019
+"27,184",0,1197480,26.94,03/23/2022,D,,,"27,184",Common Stock,Stock Appreciation Rights,D,12/20/2019
+"67,968",0,1197480,14.67,03/17/2025,D,,,"67,968",Common Stock,Stock Appreciation Rights,D,12/20/2019
+"59,418",0,1197480,10.98,03/17/2026,D,,,"59,418",Common Stock,Stock Appreciation Rights,D,12/20/2019
+"211,277","211,277",1214501,7.86,05/19/2029,D,,"211,277",,Common Stock,Stock Option (right to buy),A,12/18/2019
+489,489,1214501,7.86,06/19/2029,D,,489,,Common Stock,Stock Option (right to buy),A,12/18/2019
+"874,326","4,459,007",1441693,1,12/31/2021,I,0.75,,"874,326",Common Stock,Warrant,M,12/19/2019
+"5,000","144,999",1769489,1.15,03/02/2025,D,0,,"5,000",Class B Common Stock,Employee Stock Option (Right to Buy),M,12/19/2019
+"5,000","297,130",1769489,1.15,,D,0,"5,000",,Class A Common Stock,Class B Common Stock,M,12/19/2019
+"3,800","3,800",901876,27.795,12/30/2020,D,,,,Common Stock,Option-right to buy,,
+"3,800","3,800",901876,27.795,12/30/2020,D,,,,Common Stock,Option-right to buy,,
+"3,800","3,800",901876,27.795,12/30/2020,D,,,,Common Stock,Option-right to buy,,
+"3,800","3,800",901876,27.795,12/30/2020,D,,,,Common Stock,Option-right to buy,,
+"3,800","3,800",901876,27.795,12/30/2020,D,,,,Common Stock,Option-right to buy,,
+"3,800","3,800",901876,23.605,12/30/2021,D,,,,Common Stock,Option-right to buy,,
+"3,800","3,800",901876,23.605,12/30/2021,D,,,,Common Stock,Option-right to buy,,
+"3,800","3,800",901876,23.605,12/30/2021,D,,,,Common Stock,Option-right to buy,,
+"3,800","3,800",901876,23.605,12/30/2021,D,,,,Common Stock,Option-right to buy,,
+"3,800","3,800",901876,23.605,12/30/2021,D,,,,Common Stock,Option-right to buy,,
+"1,080",0,901876,35.75,12/30/2019,D,0,,"1,080",Common Stock,Option-right to buy,M,12/19/2019
+"3,800",900,901876,35.75,12/30/2019,D,0,,"2,900",Common Stock,Option-right to buy,M,12/19/2019
+"3,800","3,800",901876,35.75,12/30/2019,D,,,,Common Stock,Option-right to buy,,
+"3,800","3,800",901876,35.75,12/30/2019,D,,,,Common Stock,Option-right to buy,,
+"3,800","3,800",901876,32.825,12/29/2022,D,,,,Common Stock,Option-right to buy,,
+"3,800","3,800",901876,32.825,12/29/2022,D,,,,Common Stock,Option-right to buy,,
+"3,800","3,800",901876,32.825,12/29/2022,D,,,,Common Stock,Option-right to buy,,
+"3,800","3,800",901876,32.825,12/29/2022,D,,,,Common Stock,Option-right to buy,,
+"3,800","3,800",901876,32.825,12/29/2022,D,,,,Common Stock,Option-right to buy,,
+"5,000","5,000",901876,43.8,12/28/2023,I,,,,Common Stock,Option-right to buy,,
+"5,000","5,000",901876,43.8,12/28/2023,I,,,,Common Stock,Option-right to buy,,
+"5,000","5,000",901876,43.8,12/28/2023,I,,,,Common Stock,Option-right to buy,,
+"5,000","5,000",901876,43.8,12/28/2023,I,,,,Common Stock,Option-right to buy,,
+"5,000","5,000",901876,43.8,12/28/2023,I,,,,Common Stock,Option-right to buy,,
+"5,000","5,000",901876,65.25,12/30/2024,I,,,,Common Stock,Option-right to buy,,
+"5,000","5,000",901876,65.25,12/30/2024,I,,,,Common Stock,Option-right to buy,,
+"5,000","5,000",901876,65.25,12/30/2024,I,,,,Common Stock,Option-right to buy,,
+"5,000","5,000",901876,65.25,12/30/2024,I,,,,Common Stock,Option-right to buy,,
+"5,000","5,000",901876,65.25,12/30/2024,I,,,,Common Stock,Option-right to buy,,
+"3,245","3,245",1701758,,,D,,,,Common Stock,Restricted Stock Units,,
+"3,245","3,245",1701758,,,D,,,,Common Stock,Restricted Stock Units,,
+"75,000","75,000",1701758,16,06/29/2021,I,,,,Common Stock,Warrants to Purchase Common Stock,,
+"90,000","90,000",1701758,16,06/29/2021,I,,,,Common Stock,Warrants to Purchase Common Stock,,
+"74,200","74,200",1701758,16,06/29/2021,I,,,,Common Stock,Warrants to Purchase Common Stock,,
+"10,869","10,869",1664106,12.65,12/19/2029,D,0.00,"10,869",,Common Stock,Stock Option (right to buy),A,12/19/2019
+"10,869","10,869",1664106,12.65,12/19/2029,D,0.00,"10,869",,Common Stock,Stock Option (right to buy),A,12/19/2019
+"10,869","10,869",1664106,12.65,12/19/2029,D,0.00,"10,869",,Common Stock,Stock Option (right to buy),A,12/19/2019
+"115,380",0,1359575,3.42,01/21/2020,D,0,,"115,380",Common Stock,Stock Options (Right to Buy),M,12/18/2019
+"135,172",0,1359575,7.95,02/01/2022,D,0,,"135,172",Common Stock,Stock Options (Right to Buy),M,12/18/2019
+"115,075",0,1359575,6.7,01/24/2021,D,0,,"115,075",Common Stock,Stock Options (Right to Buy),M,12/18/2019
+"92,623",0,1359575,2.51,01/14/2023,D,0,,"92,623",Common Stock,Stock Options (Right to Buy),M,12/18/2019
+"37,500",0,1359575,1.16,01/20/2025,D,0,,"37,500",Common Stock,Stock Options (Right to Buy),M,12/18/2019
+"15,590","8,130",94845,7.425,02/04/2022,D,0.00,,"15,590",Class B Common Stock,Stock Appreciation Rights,M,12/18/2019
+"15,590","15,590",94845,,,D,7.425,"15,590",,Class A Common Stock Stock,Class B Common Stock,M,12/18/2019
+"10,670","4,920",94845,,,D,19.85,,"10,670",Class A Common Stock Stock,Class B Common Stock,D,12/18/2019
+"4,920",0,94845,,,D,0.00,,"4,920",Class A Common Stock,Class B Common Stock,C,12/19/2019
+"30,000","30,000",1468748,,,D,0.00,,"30,000",Common Stock,Restricted Stock Units,M,12/18/2019
+"35,000","35,000",1794898,3.4,12/18/2029,D,0,"35,000",,Common Stock,Stock Option (Right to Buy),A,12/18/2019
+"50,000","106,421",1645666,0.9,09/09/2025,D,0.00,,"50,000",Common Stock,Employee Stock Option (Right to Buy),M,12/19/2019
+991,991,1788750,12.81,07/15/2025,D,0.00,991,,Common Stock,,A,12/18/2019
+"3,677","3,677",1788750,12.65,02/24/2026,D,0.00,"3,677",,Common Stock,,A,12/18/2019
+"1,533","1,533",1788750,15.27,11/15/2026,D,0.00,"1,533",,Common Stock,,A,12/18/2019
+"5,696","5,696",1788750,16.51,02/24/2027,D,0.00,"5,696",,Common Stock,,A,12/18/2019
+"6,635","6,635",1788750,16.3,07/15/2027,D,0.00,"6,635",,Common Stock,,A,12/18/2019
+"11,059","11,059",1788750,19.04,02/24/2028,D,0.00,"11,059",,Common Stock,,A,12/18/2019
+"15,807","15,807",1788750,19.49,11/15/2028,D,0.00,"15,807",,Common Stock,,A,12/18/2019
+"26,815","26,815",1788750,21.76,02/24/2029,D,0.00,"26,815",,Common Stock,,A,12/18/2019
+"38,344","38,344",1788750,21.76,02/24/2029,D,0.00,"38,344",,Common Stock,,A,12/18/2019
+"2,000,000",436,1601692,1.8,,I,"10,000",,360,Common Stock,Series B Convertible Preferred Stock,C,12/20/2019
+"11,248","11,248",930420,,,D,,,,Common Stock,Restricted Stock Units,,
+"34,262",0,1044584,0.0,,D,,,"34,262",Common Stock,Restricted Stock Units,D,12/20/2019
+"127,018",0,1044584,0.0,,D,,,"127,018",Common Stock,Restricted Stock Units,D,12/20/2019
+"262,191",0,1044584,0.0,,D,,,"262,191",Common Stock,Restricted Stock Units,D,12/20/2019
+"12,123",0,1044584,0.0,,D,,,"12,123",Common Stock,Performance Share Units,D,12/20/2019
+"22,573",0,1044584,0.0,,D,,,"22,573",Common Stock,Performance Share Units,D,12/20/2019
+"31,197",0,1044584,0.0,,D,,,"31,197",Common Stock,Performance Share Units,D,12/20/2019
+"91,014",0,1044584,27.295,03/17/2021,D,,,"91,014",Common Stock,Stock Appreciation Rights,D,12/20/2019
+"88,736",0,1044584,26.94,03/23/2022,D,,,"88,736",Common Stock,Stock Appreciation Rights,D,12/20/2019
+"136,251",0,1044584,14.67,03/17/2025,D,,,"136,251",Common Stock,Stock Appreciation Rights,D,12/20/2019
+"184,542",0,1044584,10.98,03/17/2026,D,,,"184,542",Common Stock,Stock Appreciation Rights,D,12/20/2019
+"8,000","180,468",1254747,0.93,11/01/2022,D,0,,"8,000",Common Stock,Stock Option (Right to Buy),M,12/19/2019
+"8,000","172,468",1254747,0.93,11/01/2022,D,0,,"8,000",Common Stock,Stock Option (Right to Buy),M,12/20/2019
+"3,000","9,000",1373097,,,D,0,,"3,000",Common Shares,Restricted Share Unit Award,M,12/18/2019
+"159,275","159,275",1044584,15.59,03/17/2021,D,,"159,275",,Common Stock,Stock Appreciation Rights,A,12/20/2019
+"155,288","314,563",1044584,15.39,03/23/2022,D,,"155,288",,Common Stock,Stock Appreciation Rights,A,12/20/2019
+"238,439","553,002",1044584,8.38,03/17/2025,D,,"238,439",,Common Stock,Stock Appreciation Rights,A,12/20/2019
+"322,949","875,951",1044584,6.27,03/17/2026,D,,"322,949",,Common Stock,Stock Appreciation Rights,A,12/20/2019
+"4,488","57,379.4988",1222849,,,D,5.57,"4,488",,Common Stock,Deferred Stock,A,12/19/2019
+"77,181","77,181",1764013,8.43,11/19/2029,D,,"77,181",,Common Stock,Stock Option (right to buy),A,12/18/2019
+"30,000","30,000",1779945,6.34,12/18/2029,D,0,"30,000",,Ordinary Shares,Stock Option (right to buy),A,12/18/2019
+"77,181","77,181",1764013,8.43,11/19/2029,D,,"77,181",,Common Stock,Stock Option (right to buy),A,12/18/2019
+"7,196",0,874015,10.82,01/01/2020,D,0,,"7,196",Common Stock,Employee Stock Option (right to buy),M,12/20/2019
+"3,438",0,874015,10.82,01/01/2020,D,0,,"3,438",Common Stock,Employee Stock Option (right to buy),M,12/20/2019
+"433,588","433,588",1764013,8.43,11/19/2029,D,,"433,588",,Common Stock,Stock Option (right to buy),A,12/18/2019
+"100,000","100,000",884650,0.02,07/23/2024,D,,,,Common Stock,Option,,
+"100,000","100,000",884650,0.02,07/23/2024,D,,,,Common Stock,Option,,
+"50,000","50,000",884650,0.04,12/09/2024,D,,,,Common Stock,Option,,
+"12,916","12,916",1565717,217.415,03/08/2024,D,,,,Humana Common,Options,,
+"4,416","4,416",1565717,268.47,02/19/2025,D,,,,Humana Common,Options,,
+"6,106","6,106",1565717,307.965,02/25/2026,D,,,,Humana Common,Options,,
+"1,782","1,782",1565717,,,D,,,,Humana Common,Restricted Stock Units,,
+513,513,1565717,,,D,,,,Humana Common,Restricted Stock Units,,
+920,920,1565717,,,D,,,,Humana Common,Restricted Stock Units,,
+527.0189,"1,053.0045",1621819,,,D,0.00,,527.0189,Common Stock,Restricted Stock Units,M,12/18/2019
+789.979,789.979,1621819,,,D,,,,Common Stock,Restricted Stock Units,,
+"1,200.7681","1,200.7681",1621819,,,D,,,,Common Stock,Restricted Stock Units,,
+"1,689.6477","1,689.6477",1621819,,,D,,,,Common Stock,Restricted Stock Units,,
+"2,729","2,729",1621819,,,D,,,,Common Stock,Restricted Stock Units,,
+"3,243","3,243",1621819,18.48,11/19/2020,D,,,,Common Stock,Nonqualified Stock Option (right to buy),,
+"5,625","5,625",1621819,30.97,11/20/2021,D,,,,Common Stock,Nonqualified Stock Option (right to buy),,
+"7,826","7,826",1621819,21.52,11/12/2022,D,,,,Common Stock,Nonqualified Stock Option (right to buy),,
+"6,000","6,000",1621819,30.96,11/14/2023,D,,,,Common Stock,Nonqualified Stock Option (right to buy),,
+"4,076","4,076",1621819,44.87,12/18/2027,D,,,,Common Stock,Nonqualified Stock Option (right to buy),,
+"4,425","4,425",1621819,47.45,12/06/2028,D,,,,Common Stock,Nonqualified Stock Option (right to buy),,
+"3,006","3,006",1774167,,,D,0.00,"3,006",,Common Stock,Restricted Stock Units,A,12/18/2019
+"20,000","20,000",1759411,,,D,0.00,"20,000",,Common Stock,Restricted Stock Units,A,12/18/2019
+150,"7,050",1663763,30,02/23/2027,D,30,,150,Franklin Financial Services Corp,Franklin Financial Services Corp ISOP,X,12/20/2019
+"5,000,000",0,1764013,11.5,,D,0.5,,"10,000,000",Common Stock,Warrants to purchase Common Stock,J,12/18/2019
+"62,500","1,930,305",1692620,0.42,09/30/2024,D,0,"62,500",,Common Stock,Common Stock Purchase Warrants,P,09/30/2019
+"2,954","2,956",1657355,587.13,09/27/2027,D,0.0000,,"2,954",Common Stock,Non-Qualified Stock Option (right to buy),M,12/19/2019
+"2,100",0.0000,1657355,744.62,10/07/2025,D,0.0000,,"2,100",Common Stock,Non-Qualified Stock Option (right to buy),M,12/19/2019
+"2,000","2,000",1770897,,,D,0,,"2,000",Common Stock,Restricted Stock Units,M,12/18/2019
+"5,000","5,000",1453628,5.01,08/06/2020,D,,,,Common Stock,Stock Option (Right to Buy),,
+"1,250,000","1,250,000",1430007,0.63,12/13/2029,D,0,"1,250,000",,Common Stock,Option,A,12/13/2019
+"3,750","11,250",1704186,,,D,0,,"3,750",Common Shares,Restricted Share Unit Award,M,12/18/2019
+"18,348","18,348",1788015,12.62,02/24/2025,D,0.00,"18,348",,Common Stock,,A,12/18/2019
+"42,836","42,836",1788015,12.62,02/24/2025,D,0.00,"42,836",,Common Stock,,A,12/18/2019
+"48,835","48,835",1788015,12.65,02/24/2026,D,0.00,"48,835",,Common Stock,,A,12/18/2019
+"30,487","30,487",1788015,12.65,02/24/2026,D,0.00,"30,487",,Common Stock,,A,12/18/2019
+"15,077","15,077",1788015,15.27,11/15/2026,D,0.00,"15,077",,Common Stock,,A,12/18/2019
+"55,664","55,664",1788015,16.51,02/24/2027,D,0.00,"55,664",,Common Stock,,A,12/18/2019
+"40,327","40,327",1788015,19.04,02/24/2028,D,0.00,"40,327",,Common Stock,,A,12/18/2019
+"40,327","40,327",1788015,19.04,02/24/2028,D,0.00,"40,327",,Common Stock,,A,12/18/2019
+"38,344","38,344",1788015,21.76,02/24/2029,D,0.00,"38,344",,Common Stock,,A,12/18/2019
+"38,344","38,344",1788015,21.76,02/24/2029,D,0.00,"38,344",,Common Stock,,A,12/18/2019
+"8,276",0,1346153,0.0,,D,,,"8,276",Common Stock,Restricted Stock Units,D,12/20/2019
+813,"13,955",1782944,0.0,,D,0.0,,813,Common Stock,Restricted Stock Units,M,12/19/2019
+"3,750","8,652,839",1517413,,,D,0,,"3,750",Class A Common Stock,Class B Common Stock,C,12/19/2019
+"1,700,000","1,700,000",1517413,,,I,,,,Class A Common Stock,Class B Common Stock,,
+"800,000","800,000",1517413,,,I,,,,Class A Common Stock,Class B Common Stock,,
+"18,000","18,000",1774663,3.4,12/18/2029,D,0,"18,000",,Common Stock,Stock Option (Right to Buy),A,12/18/2019
+196,"8,789",1530249,16.89,05/08/2024,D,0,,196,Common Stock,Stock Option (Right to Buy),M,12/18/2019
+191,"8,598",1530249,16.89,05/08/2024,D,0,,191,Common Stock,Stock Option (Right to Buy),M,12/20/2019
+"19,464",0,1233101,0.0,,D,,,"19,464",Common Stock,Restricted Stock Units,D,12/20/2019
+"78,278",0,1233101,0.0,,D,,,"78,278",Common Stock,Restricted Stock Units,D,12/20/2019
+"161,613",0,1233101,0.0,,D,,,"161,613",Common Stock,Restricted Stock Units,D,12/20/2019
+"6,887",0,1233101,0.0,,D,,,"6,887",Common Stock,Performance Share Units,D,12/20/2019
+"13,911",0,1233101,0.0,,D,,,"13,911",Common Stock,Performance Share Units,D,12/20/2019
+"19,230",0,1233101,0.0,,D,,,"19,230",Common Stock,Performance Share Units,D,12/20/2019
+"58,410",0,1233101,27.295,03/17/2021,D,,,"58,410",Common Stock,Stock Appreciation Rights,D,12/20/2019
+"50,408",0,1233101,26.94,03/23/2022,D,,,"50,408",Common Stock,Stock Appreciation Rights,D,12/20/2019
+"83,970",0,1233101,14.67,03/17/2025,D,,,"83,970",Common Stock,Stock Appreciation Rights,D,12/20/2019
+"113,751",0,1233101,10.98,03/17/2026,D,,,"113,751",Common Stock,Stock Appreciation Rights,D,12/20/2019
+"4,914","4,914",1788001,12.62,02/24/2025,D,0.00,"4,914",,Common Stock,,A,12/18/2019
+"14,654","14,654",1788001,12.65,02/24/2026,D,0.00,"14,654",,Common Stock,,A,12/18/2019
+"20,033","20,033",1788001,16.51,02/24/2027,D,0.00,"20,033",,Common Stock,,A,12/18/2019
+"32,240","32,240",1788001,19.04,02/24/2028,D,0.00,"32,240",,Common Stock,,A,12/18/2019
+"40,327","40,327",1788001,19.04,02/24/2028,D,0.00,"40,327",,Common Stock,,A,12/18/2019
+"38,344","38,344",1788001,21.76,02/24/2029,D,0.00,"38,344",,Common Stock,,A,12/18/2019
+"38,344","38,344",1788001,21.76,02/24/2029,D,0.00,"38,344",,Common Stock,,A,12/18/2019
+"36,701","36,701",1757073,12.62,02/24/2025,D,0.00,"36,701",,Common Stock,,A,12/18/2019
+"101,636","101,636",1757073,12.65,02/24/2026,D,0.00,"101,636",,Common Stock,,A,12/18/2019
+"200,904","200,904",1757073,15.27,11/15/2026,D,0.00,"200,904",,Common Stock,,A,12/18/2019
+"155,778","155,778",1757073,16.51,02/24/2027,D,0.00,"155,778",,Common Stock,,A,12/18/2019
+"112,790","112,790",1757073,19.04,02/24/2028,D,0.00,"112,790",,Common Stock,,A,12/18/2019
+"161,151","161,151",1757073,19.04,02/24/2028,D,0.00,"161,151",,Common Stock,,A,12/18/2019
+"238,936","238,936",1757073,19.02,07/15/2028,D,0.00,"238,936",,Common Stock,,A,12/18/2019
+"107,260","107,260",1757073,21.76,02/24/2029,D,0.00,"107,260",,Common Stock,,A,12/18/2019
+"6,740","6,740",1757073,12.62,02/24/2025,D,0.00,"6,740",,Common Stock,,A,12/18/2019
+"2,467","2,467",1757073,12.62,02/24/2025,D,0.00,"2,467",,Common Stock,,A,12/18/2019
+"14,654","14,654",1757073,12.65,02/24/2026,D,0.00,"14,654",,Common Stock,,A,12/18/2019
+"20,033","20,033",1757073,16.51,02/24/2027,D,0.00,"20,033",,Common Stock,,A,12/18/2019
+"19,365","19,365",1757073,19.04,02/24/2028,D,0.00,"19,365",,Common Stock,,A,12/18/2019
+"32,261","32,261",1757073,19.04,02/24/2028,D,0.00,"32,261",,Common Stock,,A,12/18/2019
+"44,448","44,448",1757073,21.76,02/24/2029,D,0.00,"44,448",,Common Stock,,A,12/18/2019
+"38,344","38,344",1757073,21.76,02/24/2029,D,0.00,"38,344",,Common Stock,,A,12/18/2019
+"3,700","11,100",1704255,,,D,0,,"3,700",Common Shares,Restricted Share Unit Award,M,12/18/2019
+"9,620","9,620",1124140,,,D,0.00,"9,620",,Common Stock,Restricted Stock Units,A,12/18/2019
+"10,000","26,000",1337619,9,07/28/2020,D,0,,"10,000",Common Stock,Employee Stock Option (Right to Buy),M,12/18/2019
+45,"18,892",1580601,0.00,,D,0.00,45,,Common Stock,Restricted Stock Unit,A,12/20/2019
+"5,161",0.00,1207383,9.79,12/19/2019,D,0.00,,"5,161",Common Stock,Stock Option,M,12/19/2019
+"150,000","150,000",1439598,6.34,12/18/2029,D,0,"150,000",,Ordinary Shares,Stock Option (right to buy),A,12/18/2019
+"1,018,275","10,976,630",1535527,,,I,0.00,,"1,018,275",Class A Common Stock,Class B Common Stock,C,12/18/2019
+"17,832","10,958,798",1535527,,,I,0.00,,"17,832",Class A Common Stock,Class B Common Stock,C,12/19/2019
+"8,133,626","8,133,626",1535527,,,I,,,,Class A Common Stock,Class B Common Stock,,
+"10,950","32,850",1704317,,,D,0,,"10,950",Common Shares,Restricted Share Unit Award,M,12/18/2019
+"3,000","9,000",1704256,,,D,0,,"3,000",Common Shares,Restricted Share Unit Award,M,12/18/2019
+"1,683","22,854",1778031,0.0,,D,0.0,,"1,683",Common Stock,Restricted Stock Units,M,12/19/2019
+"4,424",0,1617609,0.0,,D,,,"4,424",Common Stock,Restricted Stock Units,D,12/20/2019
+"16,750",0,1617609,0.0,,D,,,"16,750",Common Stock,Restricted Stock Units,D,12/20/2019
+"34,572",0,1617609,0.0,,D,,,"34,572",Common Stock,Restricted Stock Units,D,12/20/2019
+"1,566",0,1617609,0.0,,D,,,"1,566",Common Stock,Performance Share Units,D,12/20/2019
+"2,977",0,1617609,0.0,,D,,,"2,977",Common Stock,Performance Share Units,D,12/20/2019
+"4,114",0,1617609,0.0,,D,,,"4,114",Common Stock,Performance Share Units,D,12/20/2019
+"11,406",0,1617609,27.295,03/17/2021,D,,,"11,406",Common Stock,Stock Appreciation Rights,D,12/20/2019
+"11,458",0,1617609,26.94,03/23/2022,D,,,"11,458",Common Stock,Stock Appreciation Rights,D,12/20/2019
+"17,967",0,1617609,14.67,03/17/2025,D,,,"17,967",Common Stock,Stock Appreciation Rights,D,12/20/2019
+"19,961","19,961",1617609,15.59,03/17/2021,D,,"19,961",,Common Stock,Stock Appreciation Rights,A,12/20/2019
+"20,051","40,012",1617609,15.39,03/23/2022,D,,"20,051",,Common Stock,Stock Appreciation Rights,A,12/20/2019
+"24,336",0,1617609,10.98,03/17/2026,D,,,"24,336",Common Stock,Stock Appreciation Rights,D,12/20/2019
+"31,442","71,454",1617609,8.38,03/17/2025,D,,"31,442",,Common Stock,Stock Appreciation Rights,A,12/20/2019
+"42,588","114,042",1617609,6.27,03/17/2026,D,,"42,588",,Common Stock,Stock Appreciation Rights,A,12/20/2019
+"41,000","41,000",1774648,3.4,12/18/2029,D,0,"41,000",,Common Stock,Stock Option (Right to Buy),A,12/18/2019
+"9,431",0,1319960,0.0,,D,,,"9,431",Common Stock,Restricted Stock Units,D,12/20/2019
+"72,500","72,500",1329010,3.4,12/18/2029,D,0,"72,500",,Common Stock,Stock Option (Right to Buy),A,12/18/2019
+"75,000",0,47307,1.43,12/31/2019,I,0.00,,"75,000",Class B Common Shares,Convertible Loan Agreement,C,12/18/2019
+"251,489",0,47307,1.43,12/31/2019,I,0.00,,"251,489",Class A Common Shares,Convertible Loan Agreement,C,12/18/2019
+74.11,"11,065.04",1766932,0.0,03/01/2022,D,0,74.11,,Common Stock,Restricted Stock Units,A,12/18/2019
+49.11,"7,332.23",1766932,0.0,04/04/2022,D,0,49.11,,Common Stock,Restricted Stock Units,A,12/18/2019
+"15,000","15,000",1758714,,,D,0.00,"15,000",,Common Stock,Restricted Stock Units,A,12/18/2019
+"4,000","8,000",1758714,,,D,0.00,,"4,000",Common Stock,Restricted Stock Units,M,12/19/2019
+"20,000","20,000",1758714,,,D,,,,Common Stock,Restricted Stock Units,,
+"9,000","9,000",1758714,,,D,,,,Common Stock,Restricted Stock Units,,
+625,"1,875",1689813,,,D,0,,625,Common Shares,Restricted Share Unit Award,M,12/18/2019
+"2,089","25,383",1777939,0.0,,D,0.0,,"2,089",Common Stock,Restricted Stock Units,M,12/19/2019
+"54,500","54,500",1633070,3.4,12/18/2029,D,0,"54,500",,Common Stock,Stock Option (Right to Buy),A,12/18/2019
+"66,801","66,801",1633070,,,D,0,"66,801",,Common Stock,Restricted Stock Units,A,12/18/2019
+"1,075",0,1654337,,,D,0.00,,"1,075",Common Stock,Restricted Stock Units,M,12/18/2019
+"20,000","20,000",1584754,,,D,0.00,"20,000",,Common Stock,Restricted Stock Units,A,12/18/2019
